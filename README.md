@@ -15,7 +15,7 @@ Each section contains notes about a certain topic, like HTML, CSS, JavaScript, G
 
 
 
-![alt text](assets/images/screenshot.png)
+
 
 ## Credits
 N/A
